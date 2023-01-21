@@ -2,7 +2,7 @@
 United Kingdom Bank Customer Analysis
 
 <br>
-<img src="https://github.com/AliNaqvi110/Bank-Customer-Analysis/blob/main/Bank_customer_analysis.jpg">0
+<img src="https://github.com/AliNaqvi110/Bank-Customer-Analysis/blob/main/Bank_customer_analysis.jpg">
 
 <p> The Dashboard is a comprehensive tool for analyzing the banking customers of the United Kingdom. It is designed to be interactive and user-friendly, allowing users to easily navigate and understand the data presented. One of the key features of the Dashboard is the age range slider, which allows users to select a specific age range for further analysis.</p>
 
